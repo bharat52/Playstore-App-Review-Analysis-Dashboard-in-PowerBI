@@ -1,5 +1,5 @@
 Play Store Data Analysis - Power BI Dashboard
-![Dashboard Preview]([Dashboard IMG.jpeg](https://github.com/bharat52/Playstore-App-Review-Analysis-Dashboard-in-PowerBI/commit/dc0a0a63dad34a4e6ed511f107a3b95276bef9d8))
+![Dashboard Preview]([Dashboard IMG.jpeg](https://github.com/bharat52/Playstore-App-Review-Analysis-Dashboard-in-PowerBI/commit/dc0a0a63dad34a4e6ed511f107a3b95276bef9d8)
 📌 Project Overview
 
 This Power BI project provides a comprehensive analysis of the Google Play Store dataset. The interactive dashboard is designed to uncover insights regarding app categories, user installations, pricing, and user ratings. It helps developers, marketers, and business analysts understand market trends, user preferences, and the competitive landscape of the Android app market.
